@@ -1,5 +1,5 @@
 # ADCS
-control system code used for the GASPAC's ADCS satellite system 
+control system code used for the GASPAC's ADCS satellite system - Utah State University GASPAC Team
 
 This repository holds the different versions of working code for the Attitude Determination Control System
 
