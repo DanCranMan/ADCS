@@ -514,5 +514,23 @@ int main( void )
 
       }
     //}
+	/*		This block is meant for demonstration purposes to vary the amount of power sent to the motors going up and down
+	if(direction){
+              PWMx++;
+              PWMy++;
+              PWMz++;
+          }else{
+              PWMx--;
+              PWMy--;
+              PWMz--;
+          }
+
+          if(PWMx >= 40){
+              direction = 0;
+          }
+          if(PWMx <= 0){
+              direction = 1;
+          }
+		  */
   }
 }
